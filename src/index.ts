@@ -1,1 +1,1 @@
-export { typeid, TypeID } from "./typeid";
+export * from "./typeid";

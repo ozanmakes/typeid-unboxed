@@ -1,21 +1,21 @@
 {
-  "name": "typeid-js",
-  "version": "0.5.0",
-  "description": "Official implementation of the TypeID specification in TypeScript. TypeIDs are type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs",
+  "name": "typeid-unboxed",
+  "version": "0.5.0-1",
+  "description": "Alternative unboxed implementation of the TypeID specification in TypeScript. TypeIDs are type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs",
   "keywords": [
     "typeid",
     "uuid",
     "uuidv7",
     "guid"
   ],
-  "homepage": "https://github.com/jetpack-io/typeid-js",
-  "bugs": "https://github.com/jetpack-io/typeid-js/issues",
+  "homepage": "https://github.com/ozanmakes/typeid-unboxed",
+  "bugs": "https://github.com/ozanmakes/typeid-unboxed/issues",
   "license": "Apache-2.0",
   "author": {
     "name": "jetpack.io",
     "email": "opensource@jetpack.io"
   },
-  "repository": "github:jetpack-io/typeid-js",
+  "repository": "github:ozanmakes/typeid-unboxed",
   "sideEffects": false,
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
